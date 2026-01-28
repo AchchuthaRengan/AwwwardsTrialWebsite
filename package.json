@@ -1,0 +1,22 @@
+{
+  "name": "awwwards-trial-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.17.5",
+    "lenis": "^1.0.45",
+    "next": "16.0.0-canary.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.169.0"
+  }
+}
