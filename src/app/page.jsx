@@ -45,8 +45,9 @@ export default function HomePage() {
       <section className="hero">
         <div className="hero__content">
           <p className="eyebrow">Awwwards Submission 2024</p>
-          <p className="hero__name">My Name</p>
-          <h1>Full-Stack Developer Portfolio</h1>
+          <h1>
+            Luminous <span>Orbit</span> Studio
+          </h1>
           <p className="hero__copy">
             A sculpted digital experience blending WebGL artistry, smooth motion, and
             bold editorial typography.

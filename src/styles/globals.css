@@ -38,13 +38,8 @@ body {
   margin-bottom: 1.5rem;
 }
 
-.hero__name {
-  font-size: 1.1rem;
-  font-weight: 600;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: #9b94ff;
-  margin-bottom: 1rem;
+.hero__content h1 span {
+  color: #9b5cff;
 }
 
 .eyebrow {
